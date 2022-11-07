@@ -1,4 +1,4 @@
-# swapmaker
+# SWAPMAKER
 Linux Swap Space Maker
 
 ## EXAMPLE:
