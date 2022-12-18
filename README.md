@@ -8,3 +8,6 @@ Linux Swap Space Maker
 If "Permission Denied" comes up, run this first in the directory of the script:
 <br></br>
 chmod 777 swapmaker.sh
+
+
+Tested on Ubuntu.
