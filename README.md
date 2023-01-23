@@ -6,6 +6,6 @@ Linux Swap Space Maker
 -> Makes 4 Gb swap space and enables it.
 <br></br>
 ## How to run:
-```curl -o swapmaker.sh https://raw.githubusercontent.com/hawshemi/swapmaker/master/swapmaker.sh && bash swapmaker.sh 2G```
+````curl -o swapmaker.sh https://raw.githubusercontent.com/hawshemi/swapmaker/master/swapmaker.sh && bash swapmaker.sh 2G````
 
 Tested on Ubuntu.
