@@ -5,9 +5,8 @@ Linux Swap Space Maker
 `./swapmaker.sh 4G`
 -> Makes 4 Gb swap space and enables it.
 <br></br>
-If "Permission Denied" comes up, run this first in the directory of the script:
+## How to run:
 <br></br>
-`chmod 777 swapmaker.sh`
-
+curl -o swapmaker.sh https://raw.githubusercontent.com/hawshemi/swapmaker/master/swapmaker.sh && bash swapmaker.sh 2G
 
 Tested on Ubuntu.
