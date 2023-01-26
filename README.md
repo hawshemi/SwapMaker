@@ -5,7 +5,7 @@ Linux Swap Space Maker
 `./swapmaker.sh 4G`
 -> Makes 4 Gb swap space and enables it.
 
-Also enables `BBR` and optimize swap settings.
+Also optimizes the swap settings.
 <br></br>
 ## How to run:
 ```
