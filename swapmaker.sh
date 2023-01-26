@@ -40,8 +40,6 @@ echo "$SWAP_PATH   none    swap    sw    0   0" | sudo tee -a /etc/fstab # Add t
 
 ## Optimize Swap Settings
 
-echo 'net.core.default_qdisc=fq' | tee -a /etc/sysctl.conf
-echo 'net.ipv4.tcp_congestion_control=bbr' | tee -a /etc/sysctl.conf
 echo 'vm.swappiness=10' | tee -a /etc/sysctl.conf
 echo 'vm.vfs_cache_pressure=50' | tee -a /etc/sysctl.conf
 sysctl -p
