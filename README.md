@@ -1,3 +1,6 @@
+## __Updated Version: https://github.com/hawshemi/Linux-Optimizer__
+
+
 # SWAPMAKER
 Linux Swap Space Maker
 
@@ -12,4 +15,4 @@ Also optimizes the swap settings.
 curl -o swapmaker.sh https://raw.githubusercontent.com/hawshemi/swapmaker/master/swapmaker.sh && bash swapmaker.sh 2G
 ```
 
-Tested on Ubuntu.
+Tested on Ubuntu & Debian.
